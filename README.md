@@ -6,6 +6,8 @@ Durante o curso de Análise e Desenvolvimento de sistemas, adquiri conhecimentos
 
 Este repositório tem como objetivo reunir todas as minhas conquistas em um único lugar, facilitando o acesso aos meus certificados e demonstrando meu comprometimento com a constante evolução e atualização na área de tecnologia.
 
+Nas seções abaixo clique no nome do curso para visualizar o certificado. Você também pode visualizar a ementa do curso ao clicar em "ver ementa".
+
 ## Certificações em GIT <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 -   [Certificado Git - Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
