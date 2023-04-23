@@ -16,7 +16,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
--   [Certificado Python - Fundamentos]() - [Ver Ementa]()
+-   [Certificado Python - Fundamentos](https://www.treinaweb.com.br/certificado/GMU1L8TGAP6K) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-fundamentos/ementa/python-fundamentos.pdf)
 
 ## Certificações em REACT <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 -   [Certificado React - Fundamentos](https://www.treinaweb.com.br/certificado/PTK61IKUZVXH) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-fundamentos/ementa/react-fundamentos.pdf)
@@ -24,7 +24,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Contato
 
-Você pode entrar em contato com Jhonatan através das seguintes redes sociais:
+Você pode entrar em contato comigo através das seguintes redes sociais:
 
   <div> 
   <a href="https://www.youtube.com/channel/UCm_pRRCv7ZMB2gR8JU4CIEg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
