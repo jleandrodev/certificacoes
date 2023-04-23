@@ -10,7 +10,8 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
--   Git - Fundamentos - <button class="glow-on-hover" type="button">HOVER ME, THEN CLICK ME!</button>
+-   Git - Fundamentos - <button class="glow-on-hover" type="button" style="width: 220px;height: 50px;border: none;outline: none;color: #fff;background: #111;cursor: pointer;position: relative;z-index: 0;border-radius: 10px;">HOVER ME, THEN CLICK ME!</button>
+
 
 
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,6 +34,10 @@ Você pode entrar em contato com Jhonatan através das seguintes redes sociais:
  
  
 </div>
+
+<button class="glow-on-hover" type="button" style="width: 220px; height: 50px; border: none; outline: none; color: #fff; background: #111; cursor: pointer; position: relative; z-index: 0; border-radius: 10px;">
+  HOVER ME, THEN CLICK ME!
+</button>
 
 <style>
   
