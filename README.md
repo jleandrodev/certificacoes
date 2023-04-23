@@ -10,17 +10,17 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
--   Git - Fundamentos - <button class="glow-on-hover" type="button" style="width: 220px;height: 50px;border: none;outline: none;color: #fff;background: #111;cursor: pointer;position: relative;z-index: 0;border-radius: 10px;">HOVER ME, THEN CLICK ME!</button>
+-   [Certificado Git - Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
 
 
 
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
--   [Python - Fundamentos]() - [Ver Ementa]()
+-   [Certificado Python - Fundamentos]() - [Ver Ementa]()
 
 ## Certificações em REACT <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
--   [React - Fundamentos](https://www.treinaweb.com.br/certificado/PTK61IKUZVXH) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-fundamentos/ementa/react-fundamentos.pdf)
--   [React - Dominando Componentes Funcionais](https://www.treinaweb.com.br/certificado/HBOQCZAWZTP8) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-dominando-componentes-funcionais/ementa/react-dominando-componentes-funcionais.pdf)
+-   [Certificado React - Fundamentos](https://www.treinaweb.com.br/certificado/PTK61IKUZVXH) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-fundamentos/ementa/react-fundamentos.pdf)
+-   [Certificado React - Dominando Componentes Funcionais](https://www.treinaweb.com.br/certificado/HBOQCZAWZTP8) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-dominando-componentes-funcionais/ementa/react-dominando-componentes-funcionais.pdf)
 
 ## Contato
 
@@ -35,69 +35,3 @@ Você pode entrar em contato com Jhonatan através das seguintes redes sociais:
  
 </div>
 
-<button class="glow-on-hover" type="button" style="width: 220px; height: 50px; border: none; outline: none; color: #fff; background: #111; cursor: pointer; position: relative; z-index: 0; border-radius: 10px;">
-  HOVER ME, THEN CLICK ME!
-</button>
-
-<style>
-  
-.glow-on-hover {
-    width: 220px;
-    height: 50px;
-    border: none;
-    outline: none;
-    color: #fff;
-    background: #111;
-    cursor: pointer;
-    position: relative;
-    z-index: 0;
-    border-radius: 10px;
-}
-
-.glow-on-hover:before {
-    content: '';
-    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
-    position: absolute;
-    top: -2px;
-    left:-2px;
-    background-size: 400%;
-    z-index: -1;
-    filter: blur(5px);
-    width: calc(100% + 4px);
-    height: calc(100% + 4px);
-    animation: glowing 20s linear infinite;
-    opacity: 0;
-    transition: opacity .3s ease-in-out;
-    border-radius: 10px;
-}
-
-.glow-on-hover:active {
-    color: #000
-}
-
-.glow-on-hover:active:after {
-    background: transparent;
-}
-
-.glow-on-hover:hover:before {
-    opacity: 1;
-}
-
-.glow-on-hover:after {
-    z-index: -1;
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: #111;
-    left: 0;
-    top: 0;
-    border-radius: 10px;
-}
-
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 400% 0; }
-    100% { background-position: 0 0; }
-}
-</style>
