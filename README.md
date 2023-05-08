@@ -19,7 +19,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado Python - Fundamentos](https://www.treinaweb.com.br/certificado/GMU1L8TGAP6K) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-fundamentos/ementa/python-fundamentos.pdf)
 
 
-## Certificações em  Javascript<img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
+## Certificações em  Javascript <img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
 -   [Certificado Javascript - Fundamentos](https://www.treinaweb.com.br/certificado/I9BODG7Q8WNT) - [Ver Ementa](https://www.treinaweb.com.br/curso/javascript-fundamentos/ementa/javascript-fundamentos.pdf)
 
 
