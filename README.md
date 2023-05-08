@@ -33,7 +33,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Fundamentos](https://www.treinaweb.com.br/certificado/PTK61IKUZVXH) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-fundamentos/ementa/react-fundamentos.pdf)
 -   [Certificado React - Dominando Componentes Funcionais](https://www.treinaweb.com.br/certificado/HBOQCZAWZTP8) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-dominando-componentes-funcionais/ementa/react-dominando-componentes-funcionais.pdf)
 -   [Certificado React - Despertando o Poder dos Hooks](https://www.treinaweb.com.br/certificado/FWUCE0HVAGUS) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-despertando-o-poder-dos-hooks/ementa/react-despertando-o-poder-dos-hooks.pdf)
-
+-   [Certificado React - Tópicos Avançados](https://www.treinaweb.com.br/certificado/OKWXNSLWMXRE) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-topicos-avancados/ementa/react-topicos-avancados.pdf)
 
 
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
