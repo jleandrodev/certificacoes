@@ -37,6 +37,9 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - React-Router](https://www.treinaweb.com.br/certificado/XXAHOR2ELLJY) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-conhecendo-o-react-router/ementa/react-conhecendo-o-react-router.pdf)
 
 
+## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
+-   [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
+
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
 -   [Certificado Python - Fundamentos]() - [Ver Ementa]() -->
 ## Contato
