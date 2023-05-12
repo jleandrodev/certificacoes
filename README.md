@@ -35,7 +35,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Despertando o Poder dos Hooks](https://www.treinaweb.com.br/certificado/FWUCE0HVAGUS) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-despertando-o-poder-dos-hooks/ementa/react-despertando-o-poder-dos-hooks.pdf)
 -   [Certificado React - Tópicos Avançados](https://www.treinaweb.com.br/certificado/OKWXNSLWMXRE) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-topicos-avancados/ementa/react-topicos-avancados.pdf)
 -   [Certificado React - React-Router](https://www.treinaweb.com.br/certificado/XXAHOR2ELLJY) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-conhecendo-o-react-router/ementa/react-conhecendo-o-react-router.pdf)
--   [Certificado React - Styled Components](https://www.treinaweb.com.br/certificado/ERGMXYZLEOHB) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-estilizacao-com-emotion-styled-components/ementa/react-estilizacao-com-emotion-styled-components.pdf) -->
+-   [Certificado React - Styled Components](https://www.treinaweb.com.br/certificado/ERGMXYZLEOHB) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-estilizacao-com-emotion-styled-components/ementa/react-estilizacao-com-emotion-styled-components.pdf)
 
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
