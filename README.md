@@ -36,13 +36,14 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Tópicos Avançados](https://www.treinaweb.com.br/certificado/OKWXNSLWMXRE) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-topicos-avancados/ementa/react-topicos-avancados.pdf)
 -   [Certificado React - React-Router](https://www.treinaweb.com.br/certificado/XXAHOR2ELLJY) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-conhecendo-o-react-router/ementa/react-conhecendo-o-react-router.pdf)
 -   [Certificado React - Styled Components](https://www.treinaweb.com.br/certificado/ERGMXYZLEOHB) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-estilizacao-com-emotion-styled-components/ementa/react-estilizacao-com-emotion-styled-components.pdf)
+-   [Certificado React - Boas Práticas](https://www.treinaweb.com.br/certificado/NVOFQXRHXF6Y) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-boas-praticas/ementa/react-boas-praticas.pdf)
 
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
 -   [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
 
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
--   [Certificado Python - Fundamentos]() - [Ver Ementa]() -->
+-   [Certificado  - ]() - [Ver Ementa]() -->
 ## Contato
 
 Você pode entrar em contato comigo através das seguintes redes sociais:
