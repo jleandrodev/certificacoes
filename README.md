@@ -38,6 +38,8 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Styled Components](https://www.treinaweb.com.br/certificado/ERGMXYZLEOHB) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-estilizacao-com-emotion-styled-components/ementa/react-estilizacao-com-emotion-styled-components.pdf)
 -   [Certificado React - Boas Práticas](https://www.treinaweb.com.br/certificado/NVOFQXRHXF6Y) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-boas-praticas/ementa/react-boas-praticas.pdf)
 -   [Certificado React - Tipagem com Typescript](https://www.treinaweb.com.br/certificado/G9CVB5K1C0IL) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-tipagem-com-typescript/ementa/react-tipagem-com-typescript.pdf) 
+-   [Certificado React - Material UI - Fundamentos](https://www.treinaweb.com.br/certificado/OYSD6T1GOZBM) - [Ver Ementa](https://www.treinaweb.com.br/curso/material-ui-fundamentos/ementa/material-ui-fundamentos.pdf) -->
+
 
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
