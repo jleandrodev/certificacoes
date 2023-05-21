@@ -29,8 +29,8 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado Python - Fundamentos](https://www.treinaweb.com.br/certificado/WNT4QPR9T8GU) - [Ver Ementa](https://www.treinaweb.com.br/curso/typescript-fundamentos/ementa/typescript-fundamentos.pdf)
 
 
-## Certificações em PHP <img alt="" height="40" width="40" src="./arquivos/PHP/php-1.svg">
--   [Certificado PHP - Fundamentos](https://www.treinaweb.com.br/certificado/O2TT4YUEMUYX) - [Ver Ementa](https://www.treinaweb.com.br/curso/php-fundamentos/ementa/php-fundamentos.pdf) -->
+## Certificações em PHP <img alt="" width="60" src="./arquivos/PHP/php-1.svg">
+-   [Certificado PHP - Fundamentos](https://www.treinaweb.com.br/certificado/O2TT4YUEMUYX) - [Ver Ementa](https://www.treinaweb.com.br/curso/php-fundamentos/ementa/php-fundamentos.pdf)
 
 
 
