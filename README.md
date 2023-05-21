@@ -20,15 +20,22 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 
 ## Certificações em  Javascript <img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
+
 -   [Certificado Javascript - Fundamentos](https://www.treinaweb.com.br/certificado/I9BODG7Q8WNT) - [Ver Ementa](https://www.treinaweb.com.br/curso/javascript-fundamentos/ementa/javascript-fundamentos.pdf)
 
 
 ## Certificações em Typescript <img alt="Typescript" height="40" width="40" src="./arquivos/Typescript/typescript.svg">
+
 -   [Certificado Python - Fundamentos](https://www.treinaweb.com.br/certificado/WNT4QPR9T8GU) - [Ver Ementa](https://www.treinaweb.com.br/curso/typescript-fundamentos/ementa/typescript-fundamentos.pdf)
+
+
+## Certificações em PHP <img alt="" height="40" width="40" src="./arquivos/PHP/php-1.svg">
+-   [Certificado PHP - Fundamentos](https://www.treinaweb.com.br/certificado/O2TT4YUEMUYX) - [Ver Ementa](https://www.treinaweb.com.br/curso/php-fundamentos/ementa/php-fundamentos.pdf) -->
 
 
 
 ## Certificações em REACT <img alt="React" height="40" width="40" src="./arquivos/React/react-2.svg">
+
 -   [Certificado React - Introdução](https://www.treinaweb.com.br/certificado/1UBUXBIKBUV0) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-introducao/ementa/react-introducao.pdf)
 -   [Certificado React - Fundamentos](https://www.treinaweb.com.br/certificado/PTK61IKUZVXH) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-fundamentos/ementa/react-fundamentos.pdf)
 -   [Certificado React - Dominando Componentes Funcionais](https://www.treinaweb.com.br/certificado/HBOQCZAWZTP8) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-dominando-componentes-funcionais/ementa/react-dominando-componentes-funcionais.pdf)
@@ -43,6 +50,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
+
 -   [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
 
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
