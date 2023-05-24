@@ -46,6 +46,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Boas Práticas](https://www.treinaweb.com.br/certificado/NVOFQXRHXF6Y) - [Ver Ementa](https://www.treinaweb.com.br/curso/react-boas-praticas/ementa/react-boas-praticas.pdf)
 -   [Certificado React - Tipagem com Typescript](https://www.treinaweb.com.br/certificado/G9CVB5K1C0IL) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/react-tipagem-com-typescript/ementa/react-tipagem-com-typescript.pdf) 
 -   [Certificado React - Material UI - Fundamentos](https://www.treinaweb.com.br/certificado/OYSD6T1GOZBM) - [Ver Ementa](https://www.treinaweb.com.br/curso/material-ui-fundamentos/ementa/material-ui-fundamentos.pdf)
+-   [Certificado React - Material UI - Componentes de Layout](https://www.treinaweb.com.br/certificado/E8Z9MERRK1UP) - [Ver Ementa](https://www.treinaweb.com.br/curso/material-ui-componentes-de-layout/ementa/material-ui-componentes-de-layout.pdf)
 
 
 
