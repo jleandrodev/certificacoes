@@ -49,8 +49,14 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 -   [Certificado React - Material UI - Componentes de Layout](https://www.treinaweb.com.br/certificado/E8Z9MERRK1UP) - [Ver Ementa](https://www.treinaweb.com.br/curso/material-ui-componentes-de-layout/ementa/material-ui-componentes-de-layout.pdf)
 
 
+## Certificações em NEXT <img alt="React" width="40" src="arquivos/Nextjs/next-js.svg">
+
+-   [Certificado Next.js - Fundamentos](https://www.treinaweb.com.br/certificado/6OLVQQPKS3LT) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-fundamentos/ementa/nextjs-fundamentos.pdf)
+
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
+
+
 
 -   [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
 
