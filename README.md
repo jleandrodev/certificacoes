@@ -31,6 +31,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em PHP <img alt="" width="60" src="./arquivos/PHP/php-1.svg">
 -   [Certificado PHP - Fundamentos](https://www.treinaweb.com.br/certificado/O2TT4YUEMUYX) - [Ver Ementa](https://www.treinaweb.com.br/curso/php-fundamentos/ementa/php-fundamentos.pdf)
+-   [Certificado PHP - Orientação a Objetos Parte 1](https://www.treinaweb.com.br/certificado/7OHS3QUIMZ2E) - [Ver Ementa](https://www.treinaweb.com.br/curso/php-orientacao-a-objetos-parte-1/ementa/php-orientacao-a-objetos-parte-1.pdf)
 
 
 
