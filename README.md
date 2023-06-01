@@ -53,6 +53,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 ## Certificações em NEXT <img alt="React" width="40" src="arquivos/Nextjs/next-js.svg">
 
 -   [Certificado Next.js - Fundamentos](https://www.treinaweb.com.br/certificado/6OLVQQPKS3LT) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-fundamentos/ementa/nextjs-fundamentos.pdf)
+-   [Certificado Next.js - Aplicações Dinâmicas ](https://www.treinaweb.com.br/certificado/MVRTXS88TYKA) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-aplicacoes-dinamicas/ementa/nextjs-aplicacoes-dinamicas.pdf) 
 
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
@@ -60,6 +61,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 
 -   [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
+ 
 
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
 -   [Certificado  - ]() - [Ver Ementa]() -->
