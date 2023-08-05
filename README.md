@@ -8,6 +8,10 @@ Este repositório tem como objetivo reunir todas as minhas conquistas em um úni
 
 Nas seções abaixo clique no nome do curso para visualizar o certificado. Você também pode visualizar a ementa do curso ao clicar em "ver ementa".
 
+## Certificações em Data Science <img alt="" height="40" width="40" src="./arquivos/Data-Science/data-science.png">
+
+- [Certificado Curso de Introdução Geral à Data Science - ](https://www.treinaweb.com.br/certificado/TE1S5VI7TT8R) - [Ver Ementa](https://www.treinaweb.com.br/curso/introducao-geral-a-data-science/ementa/introducao-geral-a-data-science.pdf)
+
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
 
 - [Certificado Git | Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
