@@ -27,7 +27,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em Typescript <img alt="Typescript" height="40" width="40" src="./arquivos/Typescript/typescript.svg">
 
-- [Certificado Python | Fundamentos](https://www.treinaweb.com.br/certificado/WNT4QPR9T8GU) - [Ver Ementa](https://www.treinaweb.com.br/curso/typescript-fundamentos/ementa/typescript-fundamentos.pdf)
+- [Certificado Typescript | Fundamentos](https://www.treinaweb.com.br/certificado/WNT4QPR9T8GU) - [Ver Ementa](https://www.treinaweb.com.br/curso/typescript-fundamentos/ementa/typescript-fundamentos.pdf)
 
 ## Certificações em PHP <img alt="" width="60" src="./arquivos/PHP/php-1.svg">
 
