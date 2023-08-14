@@ -11,6 +11,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 ## Certificações em Data Science <img alt="" height="40" width="40" src="./arquivos/Data-Science/data-science.png">
 
 - [Certificado Curso de Introdução Geral à Data Science - ](https://www.treinaweb.com.br/certificado/TE1S5VI7TT8R) - [Ver Ementa](https://www.treinaweb.com.br/curso/introducao-geral-a-data-science/ementa/introducao-geral-a-data-science.pdf)
+- [Certificado Curso Data Science - Obtenção e pré-processamento de dados - ](https://www.treinaweb.com.br/certificado/VMAUBE2V97MV) - [Ver Ementa](https://www.treinaweb.com.br/curso/data-science-obtencao-e-pre-processamento-de-dados/ementa/data-science-obtencao-e-pre-processamento-de-dados.pdf)
 
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
 
