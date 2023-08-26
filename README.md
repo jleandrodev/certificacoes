@@ -21,6 +21,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 - [Certificado Python | Fundamentos](https://www.treinaweb.com.br/certificado/GMU1L8TGAP6K) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-fundamentos/ementa/python-fundamentos.pdf)
 - [Certificado Python | Orientação à Objeos](https://www.treinaweb.com.br/certificado/830RG8QSTNDM) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-orientacao-a-objetos/ementa/python-orientacao-a-objetos.pdf)
+- [Certificado Python | Algoritmos - Parte 1](https://www.treinaweb.com.br/certificado/GGJWVH88XOAT) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-algoritmos-parte-1/ementa/python-algoritmos-parte-1.pdf)
 
 ## Certificações em Javascript <img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
 
