@@ -10,9 +10,9 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em Data Science <img alt="" height="40" width="40" src="./arquivos/Data-Science/data-science.png">
 
-- [Certificado Curso de Introdução Geral à Data Science - ](https://www.treinaweb.com.br/certificado/TE1S5VI7TT8R) - [Ver Ementa](https://www.treinaweb.com.br/curso/introducao-geral-a-data-science/ementa/introducao-geral-a-data-science.pdf)
-- [Certificado Curso Data Science - Obtenção e pré-processamento de dados - ](https://www.treinaweb.com.br/certificado/VMAUBE2V97MV) - [Ver Ementa](https://www.treinaweb.com.br/curso/data-science-obtencao-e-pre-processamento-de-dados/ementa/data-science-obtencao-e-pre-processamento-de-dados.pdf)
-- [Certificado Curso Data Science - Manipulação de Dados com Pandas - ](https://www.treinaweb.com.br/certificado/U1IHCVF3N3HC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/data-science-manipulacao-de-dados-com-pandas/ementa/data-science-manipulacao-de-dados-com-pandas.pdf)
+- [Certificado Curso de Introdução Geral à Data Science](https://www.treinaweb.com.br/certificado/TE1S5VI7TT8R) - [Ver Ementa](https://www.treinaweb.com.br/curso/introducao-geral-a-data-science/ementa/introducao-geral-a-data-science.pdf)
+- [Certificado Curso Data Science - Obtenção e pré-processamento de dados](https://www.treinaweb.com.br/certificado/VMAUBE2V97MV) - [Ver Ementa](https://www.treinaweb.com.br/curso/data-science-obtencao-e-pre-processamento-de-dados/ementa/data-science-obtencao-e-pre-processamento-de-dados.pdf)
+- [Certificado Curso Data Science - Manipulação de Dados com Pandas](https://www.treinaweb.com.br/certificado/U1IHCVF3N3HC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/data-science-manipulacao-de-dados-com-pandas/ementa/data-science-manipulacao-de-dados-com-pandas.pdf)
 
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
 
@@ -21,8 +21,12 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="./arquivos/Python/python-5.svg">
 
 - [Certificado Python | Fundamentos](https://www.treinaweb.com.br/certificado/GMU1L8TGAP6K) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-fundamentos/ementa/python-fundamentos.pdf)
+-
 - [Certificado Python | Orientação à Objeos](https://www.treinaweb.com.br/certificado/830RG8QSTNDM) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-orientacao-a-objetos/ementa/python-orientacao-a-objetos.pdf)
+-
 - [Certificado Python | Algoritmos - Parte 1](https://www.treinaweb.com.br/certificado/GGJWVH88XOAT) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-algoritmos-parte-1/ementa/python-algoritmos-parte-1.pdf)
+
+- [Certificado Python | Consumindo APIs](https://www.treinaweb.com.br/certificado/A0QPQ5K06J1G) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/python-consumindo-apis/ementa/python-consumindo-apis.pdf)
 
 ## Certificações em Javascript <img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
 
@@ -39,8 +43,8 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em Laravel <img alt="" width="40" src="./arquivos/Laravel/laravel-2.svg">
 
-- [Certificado Laravel | Fundamentos - ](https://www.treinaweb.com.br/certificado/LPOMAJZ5IMAO) - [Ver Ementa](https://www.treinaweb.com.br/curso/laravel-fundamentos/ementa/laravel-fundamentos.pdf)
-- [Certificado Laravel | Deploy - ](https://www.treinaweb.com.br/certificado/5VTG0LVB0UGA) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/laravel-deploy-no-heroku/ementa/laravel-deploy-no-heroku.pdf)
+- [Certificado Laravel | Fundamentos](https://www.treinaweb.com.br/certificado/LPOMAJZ5IMAO) - [Ver Ementa](https://www.treinaweb.com.br/curso/laravel-fundamentos/ementa/laravel-fundamentos.pdf)
+- [Certificado Laravel | Deploy](https://www.treinaweb.com.br/certificado/5VTG0LVB0UGA) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/laravel-deploy-no-heroku/ementa/laravel-deploy-no-heroku.pdf)
 
 ## Certificações em REACT <img alt="React" height="40" width="40" src="./arquivos/React/react-2.svg">
 
@@ -59,7 +63,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 ## Certificações em NEXT <img alt="React" width="40" src="arquivos/Nextjs/next-js.svg">
 
 - [Certificado Next.js | Fundamentos](https://www.treinaweb.com.br/certificado/6OLVQQPKS3LT) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-fundamentos/ementa/nextjs-fundamentos.pdf)
-- [Certificado Next.js | Aplicações Dinâmicas ](https://www.treinaweb.com.br/certificado/MVRTXS88TYKA) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-aplicacoes-dinamicas/ementa/nextjs-aplicacoes-dinamicas.pdf)
+- [Certificado Next.js | Aplicações Dinâmicas](https://www.treinaweb.com.br/certificado/MVRTXS88TYKA) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-aplicacoes-dinamicas/ementa/nextjs-aplicacoes-dinamicas.pdf)
 
 ## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
 
@@ -67,7 +71,7 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 ## Certificações em Workshops <img alt="" height="40" width="40" src="./arquivos/Workshops/workshop.svg">
 
-- [Certificado Multistack 2 | Criando uma aplicação multiplataforma ](https://www.treinaweb.com.br/certificado/EE3ZNJYJA4PE) - [Ver Ementa](https://www.treinaweb.com.br/projeto-pratico/workshop-multi-stack-02-criando-uma-aplicacao-multiplataforma/ementa/workshop-multi-stack-02-criando-uma-aplicacao-multiplataforma.pdf)
+- [Certificado Multistack 2 | Criando uma aplicação multiplataforma](https://www.treinaweb.com.br/certificado/EE3ZNJYJA4PE) - [Ver Ementa](https://www.treinaweb.com.br/projeto-pratico/workshop-multi-stack-02-criando-uma-aplicacao-multiplataforma/ementa/workshop-multi-stack-02-criando-uma-aplicacao-multiplataforma.pdf)
 
 <!-- ## Certificações em  <img alt="" height="40" width="40" src="">
 -   [Certificado  - ]() - [Ver Ementa]() -->
