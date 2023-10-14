@@ -21,10 +21,14 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="./arquivos/Python/python-5.svg">
 
 - [Certificado Python | Fundamentos](https://www.treinaweb.com.br/certificado/GMU1L8TGAP6K) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-fundamentos/ementa/python-fundamentos.pdf)
--
+
 - [Certificado Python | Orientação à Objeos](https://www.treinaweb.com.br/certificado/830RG8QSTNDM) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-orientacao-a-objetos/ementa/python-orientacao-a-objetos.pdf)
--
+
 - [Certificado Python | Algoritmos - Parte 1](https://www.treinaweb.com.br/certificado/GGJWVH88XOAT) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-algoritmos-parte-1/ementa/python-algoritmos-parte-1.pdf)
+
+- [Certificado Python - Estrutura de dados - Parte 1](https://www.treinaweb.com.br/certificado/TSOSV7CGIAJL) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-estrutura-de-dados-parte-1/ementa/python-estrutura-de-dados-parte-1.pdf)
+
+- [Certificado Python - Banco de dados com DB API](https://www.treinaweb.com.br/certificado/7KBGO8P95N0Z) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-banco-de-dados-com-db-api/ementa/python-banco-de-dados-com-db-api.pdf)
 
 - [Certificado Python | Consumindo APIs](https://www.treinaweb.com.br/certificado/A0QPQ5K06J1G) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/python-consumindo-apis/ementa/python-consumindo-apis.pdf)
 
