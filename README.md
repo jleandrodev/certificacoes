@@ -31,7 +31,6 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 - [Certificado Python - Banco de dados com DB API](https://www.treinaweb.com.br/certificado/7KBGO8P95N0Z) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-banco-de-dados-com-db-api/ementa/python-banco-de-dados-com-db-api.pdf)
 
 - [Certificado Python | Consumindo APIs](https://www.treinaweb.com.br/certificado/A0QPQ5K06J1G) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/python-consumindo-apis/ementa/python-consumindo-apis.pdf)
--
 - [Certificado Python | SQLAlchemy ORM](https://www.treinaweb.com.br/certificado/A8YEQVFS3KNZ) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-sqlalchemy/ementa/python-sqlalchemy.pdf)
 
 ## Certificações em Flask <img alt="" height="40" width="40" src="./arquivos/Flask/flask.svg">
