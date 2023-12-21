@@ -44,6 +44,10 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 - [Certificado Flask | Fundamentos](https://www.treinaweb.com.br/certificado/IKORN7KNFWX9) - [Ver Ementa](https://www.treinaweb.com.br/curso/flask-fundamentos/ementa/flask-fundamentos.pdf)
 
+- [Certificado Flask | Desenvolvimento de APIs REST](https://www.treinaweb.com.br/certificado/0P40JRY94A38) - [Ver Ementa](https://www.treinaweb.com.br/curso/flask-desenvolvimento-de-apis-rest/ementa/flask-desenvolvimento-de-apis-rest.pdf)
+
+
+
 ## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
 
 - [Certificado Git | Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
