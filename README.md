@@ -14,9 +14,6 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 - [Certificado Curso Data Science | Obtenção e pré-processamento de dados](https://www.treinaweb.com.br/certificado/VMAUBE2V97MV) - [Ver Ementa](https://www.treinaweb.com.br/curso/data-science-obtencao-e-pre-processamento-de-dados/ementa/data-science-obtencao-e-pre-processamento-de-dados.pdf)
 - [Certificado Curso Data Science | Manipulação de Dados com Pandas](https://www.treinaweb.com.br/certificado/U1IHCVF3N3HC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/data-science-manipulacao-de-dados-com-pandas/ementa/data-science-manipulacao-de-dados-com-pandas.pdf)
 
-## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
-
-- [Certificado Git | Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
 
 ## Certificações em PYTHON <img alt="Python" height="40" width="40" src="./arquivos/Python/python-5.svg">
 
@@ -33,9 +30,23 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 - [Certificado Python | Consumindo APIs](https://www.treinaweb.com.br/certificado/A0QPQ5K06J1G) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/python-consumindo-apis/ementa/python-consumindo-apis.pdf)
 - [Certificado Python | SQLAlchemy ORM](https://www.treinaweb.com.br/certificado/A8YEQVFS3KNZ) - [Ver Ementa](https://www.treinaweb.com.br/curso/python-sqlalchemy/ementa/python-sqlalchemy.pdf)
 
+## Certificações em Django <img alt="" height="40" width="40" src="./arquivos/Django/django.svg">
+
+- [Certificado Django | Fundamentos](https://www.treinaweb.com.br/certificado/JYGF6IZVUCUL) - [Ver Ementa](https://www.treinaweb.com.br/curso/django-fundamentos/ementa/django-fundamentos.pdf)
+
+- [Certificado Django | Templates](https://www.treinaweb.com.br/certificado/EX15ORUJNYD6) - [Ver Ementa](https://www.treinaweb.com.br/curso/django-templates/ementa/django-templates.pdf)
+
+- [Certificado Django | Banco de dados com Django ORM](https://www.treinaweb.com.br/certificado/BQFYMDRWOTSU) - [Ver Ementa](https://www.treinaweb.com.br/curso/django-banco-de-dados-com-django-orm/ementa/django-banco-de-dados-com-django-orm.pdf)
+
+- [Certificado Django | Mapeando de banco de dados legado](https://www.treinaweb.com.br/certificado/SWNFJNNH1CMC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-mapeando-de-banco-de-dados-legado/ementa/django-mapeando-de-banco-de-dados-legado.pdf)
+
 ## Certificações em Flask <img alt="" height="40" width="40" src="./arquivos/Flask/flask.svg">
 
 - [Certificado Flask | Fundamentos](https://www.treinaweb.com.br/certificado/IKORN7KNFWX9) - [Ver Ementa](https://www.treinaweb.com.br/curso/flask-fundamentos/ementa/flask-fundamentos.pdf)
+
+## Certificações em GIT <img alt="Git" height="40" width="40" src="./arquivos/Git/git-icon.svg">
+
+- [Certificado Git | Fundamentos](https://www.treinaweb.com.br/certificado/NK9I20WUJEYC) - [Ver Ementa](https://www.treinaweb.com.br/curso/git-fundamentos/ementa/git-fundamentos.pdf)
 
 ## Certificações em Javascript <img alt="" height="40" width="40" src="./arquivos/Javascript/logo-javascript.svg">
 
