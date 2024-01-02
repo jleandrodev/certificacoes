@@ -2,7 +2,7 @@
 
 Este repositório contém os links para todas as certificações conquistadas.
 
-Durante o curso de Análise e Desenvolvimento de sistemas e Ciência de Dados, adquiri conhecimentos em diversas áreas, como desenvolvimento de aplicações Web, automações de tarefas, integrações com banco de dados, análise e tratamento de dados, entre outras. Para complementar minha formação e me manter atualizado sobre as tendências do mercado, também me dediquei a realizar diversos cursos e certificações em tecnologia.
+Durante os cursos de Análise e Desenvolvimento de sistemas e Ciência de Dados, adquiri conhecimentos em diversas áreas, como desenvolvimento de aplicações Web, automações de tarefas, integrações com banco de dados, análise e tratamento de dados, entre outras. Para complementar minha formação e me manter atualizado sobre as tendências do mercado, também me dediquei a realizar diversos cursos e certificações em tecnologia.
 
 Este repositório tem como objetivo reunir todas as minhas conquistas em um único lugar, facilitando o acesso aos meus certificados e demonstrando meu comprometimento com a constante evolução e atualização na área de tecnologia.
 
