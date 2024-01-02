@@ -38,7 +38,22 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 
 - [Certificado Django | Banco de dados com Django ORM](https://www.treinaweb.com.br/certificado/BQFYMDRWOTSU) - [Ver Ementa](https://www.treinaweb.com.br/curso/django-banco-de-dados-com-django-orm/ementa/django-banco-de-dados-com-django-orm.pdf)
 
-- [Certificado Django | Mapeando de banco de dados legado](https://www.treinaweb.com.br/certificado/SWNFJNNH1CMC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-mapeando-de-banco-de-dados-legado/ementa/django-mapeando-de-banco-de-dados-legado.pdf)
+- [Certificado Django | Mapeando de banco de dados legado](https://www.treinaweb.com.br/certificado/SWNFJNNH1CMC)  - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-mapeando-de-banco-de-dados-legado/ementa/django-mapeando-de-banco-de-dados-legado.pdf)
+
+- [Curso de Django | Trabalhando com a camada de services](https://www.treinaweb.com.br/certificado/P7Y8NTLCGQVA)  - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-trabalhando-com-a-camada-de-services/ementa/django-trabalhando-com-a-camada-de-services.pdf)
+
+- [Curso de Django | Trabalhando com validações](https://www.treinaweb.com.br/certificado/BII7TF38QNPW)  - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-trabalhando-com-validacoes/ementa/django-trabalhando-com-validacoes.pdf)
+
+- [Curso de Django | Autenticação e Autorização](https://www.treinaweb.com.br/certificado/54T0YIQ869YT)  - [Ver Ementa](https://www.treinaweb.com.br/curso/django-autenticacao-e-autorizacao/ementa/django-autenticacao-e-autorizacao.pdf)
+
+- [Curso de Django | Trabalhando com class-based views](https://www.treinaweb.com.br/certificado/OBFHAPT2ZAXD)  - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/django-trabalhando-com-class-based-views/ementa/django-trabalhando-com-class-based-views.pdf)
+
+- [Curso de Django | Módulo administrativo Django Admin](https://www.treinaweb.com.br/certificado/K7ESTKMAE902)  - [Ver Ementa](https://www.treinaweb.com.br/curso/django-modulo-administrativo-django-admin/ementa/django-modulo-administrativo-django-admin.pdf)
+
+- [Curso de Django | Sistema de gerenciamento de clínicas PET](https://www.treinaweb.com.br/certificado/0GLWKOHDS6NW)  - [Ver Ementa](https://www.treinaweb.com.br/projeto-pratico/django-sistema-de-gerenciamento-de-clinicas-pet/ementa/django-sistema-de-gerenciamento-de-clinicas-pet.pdf)
+
+- [Curso de Django e OpenAI | Entrevistador usando a inteligência artificial GPT](https://www.treinaweb.com.br/certificado/PICRX1XQOVM4)  - [Ver Ementa](https://www.treinaweb.com.br/projeto-pratico/django-e-openai-entrevistador-usando-a-inteligencia-artificial-gpt/ementa/django-e-openai-entrevistador-usando-a-inteligencia-artificial-gpt.pdf)
+
 
 ## Certificações em Flask <img alt="" height="40" width="40" src="./arquivos/Flask/flask.svg">
 
@@ -89,9 +104,15 @@ Nas seções abaixo clique no nome do curso para visualizar o certificado. Você
 - [Certificado Next.js | Fundamentos](https://www.treinaweb.com.br/certificado/6OLVQQPKS3LT) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-fundamentos/ementa/nextjs-fundamentos.pdf)
 - [Certificado Next.js | Aplicações Dinâmicas](https://www.treinaweb.com.br/certificado/MVRTXS88TYKA) - [Ver Ementa](https://www.treinaweb.com.br/curso/nextjs-aplicacoes-dinamicas/ementa/nextjs-aplicacoes-dinamicas.pdf)
 
-## Certificações em Ferramentas para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Ferramentas/google-webmaster-tools.svg">
+## Certificações em Base para Desenvolvimento <img alt="" height="40" width="40" src="./arquivos/Base-Desenvolvimento/google-webmaster-tools.svg">
 
 - [Certificado Google Chrome Developer Tools](https://www.treinaweb.com.br/certificado/GGO9INY68OKY) - [Ver Ementa](https://www.treinaweb.com.br/curso/google-chrome-developer-tools/ementa/google-chrome-developer-tools.pdf)
+
+- [Curso de HTTP - Fundamentos para desenvolvedores](https://www.treinaweb.com.br/certificado/VOO9U6KNDSLX) - [Ver Ementa](https://www.treinaweb.com.br/curso/http-fundamentos-para-desenvolvedores/ementa/http-fundamentos-para-desenvolvedores.pdf)
+
+## Certificações em Cloud Computing <img alt="" height="40" width="40" src="./arquivos/Cloud/cloud-computing.png">
+
+- [Curso de Computação em nuvem - Fundamentos](https://www.treinaweb.com.br/certificado/NSD3YAQ4IPTC) - [Ver Ementa](https://www.treinaweb.com.br/direto-ao-ponto/computacao-em-nuvem-fundamentos/ementa/computacao-em-nuvem-fundamentos.pdf)
 
 ## Certificações em Workshops <img alt="" height="40" width="40" src="./arquivos/Workshops/workshop.svg">
 
